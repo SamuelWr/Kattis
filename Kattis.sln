@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nine", "nine\nine.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timeloop", "timeloop\timeloop.csproj", "{198E27B6-B627-4F62-BF9E-C4C623E7FF6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winningstreak", "winningstreak\winningstreak.csproj", "{40C0B0AF-DC9C-4657-B4AC-AAABBEEA04AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{198E27B6-B627-4F62-BF9E-C4C623E7FF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{198E27B6-B627-4F62-BF9E-C4C623E7FF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{198E27B6-B627-4F62-BF9E-C4C623E7FF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C0B0AF-DC9C-4657-B4AC-AAABBEEA04AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C0B0AF-DC9C-4657-B4AC-AAABBEEA04AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C0B0AF-DC9C-4657-B4AC-AAABBEEA04AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C0B0AF-DC9C-4657-B4AC-AAABBEEA04AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
